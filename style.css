@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  margin: 0;
+  background: #323232;
+  color: white;
+  font-family: Arial;
+  height: 1000px;
+}
+
+canvas {
+  border: 10px solid #121212;
+  outline: 10px dashed red; 
+  box-shadow: 0 0 0 10px blue;
+  margin: 0px auto;
+  transform: scale(0.9);
+}
